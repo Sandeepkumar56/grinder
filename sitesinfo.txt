@@ -1,0 +1,7 @@
+shodan.io -for version of server,networking equipment, industrial control systems, and IoT devices.
+Censys-	such as servers, routers, webcams, and IoT devices. Censys, on the other hand, focuses on Internet-connected hosts, websites, certificates, and other Internet assets
+VirusTotal-t allows users to upload files or provide URLs to scan them against numerous antivirus engines and website scanners in a single operation
+Have I Been Pwned- It is to check if a email has been leaked or involved in a data breach
+
+cve-It provides a standardized identifier for vulnerabilities and security issues in software and hardware products. Each vulnerability is assigned a CVE ID with a standardized format like CVE-2024-29988
+Exploit Database-The Exploit Database lists exploit codes from various authors; some of these exploit codes are tested and marked as verified
